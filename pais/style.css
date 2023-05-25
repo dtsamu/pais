@@ -1,0 +1,39 @@
+.dede{
+    text-align: center;
+    background-color: rgb(248, 8, 8);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+
+
+.pais{
+    display: flex;
+    justify-content: center;
+background-color: brown(232, 232, 235);
+list-style: none;
+}
+
+.estadosunidos{
+    justify-content: center;
+}
+
+.minombre{
+    text-align: center;
+
+}
+
+
+.presentacion{
+    text-align: center;
+
+}
+
+.estadosunidos{
+
+    text-align: center;
+}
+
+.fotos{
+    text-align: center;
+}
+
